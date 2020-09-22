@@ -1,4 +1,3 @@
 接收line訊息並回應
-爬蟲抓取EYNY電影資訊、URL並發送至LINE
-抓取試用序號並回覆
-抓取目前電影資訊等
+利用selenium模擬使用者抓取EYNY電影資訊、URL並發送至LINE
+利用request+beautifulSoup抓取目前電影資訊等
